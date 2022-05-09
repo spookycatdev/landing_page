@@ -2,4 +2,4 @@
 
 
 
-![Image](/landing_page/docs/assets/builder_cat.jpg)
+![Image](/docs/assets/builder_cat.jpg)
